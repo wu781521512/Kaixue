@@ -1,0 +1,4 @@
+include ':javaapp'
+include ':MyButterKnife'
+include ':app'
+rootProject.name = "Kaixue"
